@@ -1,0 +1,9 @@
+jax==0.3.16
+jaxlib==0.3.15+cuda11.cudnn82
+jupyter==1.0.0
+matplotlib==3.5.3
+notebook==6.4.12
+numpy==1.21.6
+scipy==1.7.3
+tensorflow==2.9.1
+tensorflow-datasets==4.6.0
