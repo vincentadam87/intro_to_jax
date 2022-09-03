@@ -12,7 +12,7 @@ Models include:
 
 ## Ressources for the MATLAB user
 * Numpy's [intro](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html) to the Matlab user.
-* A Numpy cheat sheet for the Matlab user.
+* A Numpy [cheat sheet](https://mas-dse.github.io/DSE200/cheat_sheets/1_python/6_2_NumPy_for_MATLAB_users.pdf) for the Matlab user.
 * Lecture notes of a course (I once taught) on [Python for scientific computing](http://ucl-cs-grad.github.io/scipython/).
 
 
